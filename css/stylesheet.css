@@ -1,0 +1,118 @@
+@font-face{
+    src: url(../fonts/Hunters.otf);
+    font-family: "Hunter";
+}
+
+
+
+@font-face{
+    src: url(../fonts/Nature\ Beauty\ Personal\ Use.ttf);
+    font-family: "Nature";
+}
+@font-face{
+    src: url(../fonts/Mops.ttf);
+    font-family: "Mops";
+}
+
+
+.Title{
+    text-align: center;
+    color: rgb(250, 238, 173);
+    line-height: 1;
+    padding: 5px; 
+    font-family: courier;
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.205)),url(../img/Untitled-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+
+h1{
+    font-size: 51px;
+    font-weight: 9000;
+    -webkit-text-stroke-color: rgb(255, 139, 72);
+    -webkit-text-stroke-width: 1.5px;
+}
+#jerold{
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+}
+h2{
+    font-family: Courier;
+    color: rgb(255, 139, 72);
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: .1px;
+    font-size: 35px;
+}
+h3{
+    font-family: Courier;
+    color: rgb(247, 178, 51);
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: .5px;
+    font-size: 25px;
+}
+#browser{
+    height: 50px; 
+    width: 50px;
+    text-align: center;
+}
+#game{
+    height: 50px; 
+    width: 50px;
+    text-align: center;
+}
+
+.body{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.Get-in-touch{
+    text-align: center;
+}
+.Footer{
+    text-align: center;
+    background-color: rgb(122, 79, 53);
+    padding: 15px;
+    margin-top: 15px;
+    
+
+}
+.Footer p{
+    color: white;
+    font-family: Courier;
+}
+#Cm{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Courier;
+    color: antiquewhite;
+    background-color: rgb(122, 79, 53);
+}
+.mainbody p{
+    font-family: Courier;
+    font-size: 16px;
+    padding-left: 500px;
+    padding-right: 500px;
+    line-height: 2.5;
+    color: white;
+}
+.mainbody{
+    background: linear-gradient(to top,rgba(0, 0, 0, 0.116),rgba(0, 0, 0, 0.205)), url(../img/wholebackground.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    font-family: Courier;
+
+}
